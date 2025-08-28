@@ -1,8 +1,7 @@
 ---
 
 
-# 🌐 Static Website Deployment with GitHub Pages
-
+# Static Website Deployment with GitHub Pages
 ## Features
 
 * Simple static website built using *HTML, CSS, and JavaScript*
