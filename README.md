@@ -1,8 +1,3 @@
----
-
-
-# Static Website Deployment with GitHub Pages
-## Features
 
 * Simple static website built using *HTML, CSS, and JavaScript*
 * Responsive design for desktop and mobile
